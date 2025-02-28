@@ -1,1 +1,1 @@
-# General_Neural_Network_Based_on_MNIST-
+My first neural network project based on MNIST data sets
